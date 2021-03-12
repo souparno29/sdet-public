@@ -1,5 +1,5 @@
 const requests = require('../helpers/client')
-const data = require('../test_data')
+const data = require('../data/test_data')
 
 
 
